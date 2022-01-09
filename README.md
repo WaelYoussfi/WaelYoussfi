@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web & Mobile development
 - 🌱 I’m currently learning SEO
 - 💞️ I’m looking to collaborate on anything related to web and mobile development
-- 📫 How to reach me: <a href="https://wael.vercel.app/"><b>My Porfolio</b></a> or via email : wael.youssfi1997@gmail.com
+- 📫 How to reach me: <a href="https://wael.vercel.app/"><b>My Porfolio</b></a> or via email : youssfi.wael1997@gmail.com
 
 <!---
 WaelYoussfi/WaelYoussfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
